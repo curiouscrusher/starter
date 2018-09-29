@@ -30,6 +30,7 @@ node_packages=(
   modernizr
   packer
   psi
+  pure-prompt
   snapline
   stylelint
   svgo
